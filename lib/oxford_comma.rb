@@ -17,7 +17,9 @@ def oxford_comma(array)
   
   size = array.size
   
-  case 
+  case size
+  
+  when 
 
   
   
