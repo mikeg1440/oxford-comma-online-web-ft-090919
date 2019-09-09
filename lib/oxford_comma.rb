@@ -20,7 +20,7 @@ def oxford_comma(array)
   case size
   
   when 1
-    
+    array.first
 
   
   
