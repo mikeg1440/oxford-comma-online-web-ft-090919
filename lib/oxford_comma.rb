@@ -18,7 +18,6 @@ def oxford_comma(array)
   size = array.size
   
   case size
-  
   when 1
     array.first
   
