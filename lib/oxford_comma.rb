@@ -23,7 +23,7 @@ def oxford_comma(array)
     array.first
   
   when 2
-    array.join(", ")
+    array.join(" and ")
   
   else
     array[-1] = "and #{array[-1]}"
