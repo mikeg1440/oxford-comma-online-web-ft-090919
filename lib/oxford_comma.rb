@@ -19,7 +19,8 @@ def oxford_comma(array)
   
   case size
   
-  when 
+  when 1
+    
 
   
   
