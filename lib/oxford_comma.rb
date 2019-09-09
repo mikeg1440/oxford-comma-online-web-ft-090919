@@ -1,18 +1,26 @@
 def oxford_comma(array)
   
-  if array.size == 1
-    return array.first
-  elsif array.size == 2
-    return array.join(" and ")
-  elsif array.size == 3
+  # if array.size == 1
+  #   return array.first
+  # elsif array.size == 2
+  #   return array.join(" and ")
+  # elsif array.size == 3
     
-    array[-1] = "and #{array[-1]}"
+  #   array[-1] = "and #{array[-1]}"
     
-    array.join(", ") 
+  #   array.join(", ") 
     
-  else
-    array[-1] = "and #{array[-1]}"
-    array.join(", ")
-  end
+  # else
+  #   array[-1] = "and #{array[-1]}"
+  #   array.join(", ")
+  # end
+  
+  size = array.size
+  
+  case 
+
+  
+  
+  
   
 end
