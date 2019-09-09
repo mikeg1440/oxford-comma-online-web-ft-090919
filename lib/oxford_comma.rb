@@ -9,8 +9,7 @@ def oxford_comma(array)
     str =  array.join(", ") 
     
   else
-
+    array.join(",")
   end
   
-  array.join(",")
 end
